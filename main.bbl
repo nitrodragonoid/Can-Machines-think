@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+
+\bibitem{Arora}
+Sanjeev Arora and Boaz Barak.
+\newblock {\em Computational Complexity: A Modern Approach}.
+\newblock Cambridge University Press, USA, 1st edition, 2009.
+
+\bibitem{Church36}
+Alonzo Church.
+\newblock An unsolvable problem of elementary number theory.
+\newblock {\em Journal of Symbolic Logic}, 1(2):73--74, 1936.
+
+\bibitem{Churchland}
+Paul~M. Churchland and Patricia~S. Churchland.
+\newblock Could a machine think?
+\newblock {\em Scientific American}, 262(1):32--37, 1990.
+
+\bibitem{Computerphile}
+Computerphile.
+\newblock Turing machines explained - computerphile, Aug. 2014.
+
+\bibitem{Denning}
+Peter~J. Denning.
+\newblock The science of computing: Is thinking computable?
+\newblock {\em American Scientist}, 78(2):100--102, 1990.
+
+\bibitem{glymour_kelly_1990}
+Clark Glymour and Kevin Kelly.
+\newblock Why you'll never know whether roger penrose is a computer.
+\newblock {\em Behavioral and Brain Sciences}, 13(4):666–667, 1990.
+
+\bibitem{Godel31}
+Kurt Gödel.
+\newblock Über formal unentscheidbare sätze der principia mathematica und
+  verwandter systeme.
+\newblock {\em Monatshefte für Mathematik und Physik}, 38(1):173--198, 1931.
+
+\bibitem{hilbert}
+David Hilbert and Wilhelm Ackermann.
+\newblock {\em Grundzüge der theoretischen Logik (Principles of Mathematical
+  Logic)}.
+\newblock Springer-Verlag, 1928.
+
+\bibitem{Lampert}
+Timm Lampert and Anderson Nakano.
+\newblock Explaining the undecidability of first-order logic.
+\newblock {\em Humboldt-Universit¨at zu Berlin Computer- und Medienservic},
+  2021.
+
+\bibitem{Lucas}
+John Lucas.
+\newblock Minds, machines and gödel.
+\newblock {\em Philosophy}, 36(137):112--127, 1961.
+
+\bibitem{penrose}
+R.~Penrose.
+\newblock {\em The Emperor's New Mind: Concerning Computers, Minds, and the
+  Laws of Physics}.
+\newblock Oxford landmark science. Oxford University Press, 2016.
+
+\bibitem{Kleene37}
+R{\'o}zsa P{\'e}ter and Stephen~Cole Kleene.
+\newblock $\lambda$-definability and recursiveness.
+\newblock {\em Journal of Symbolic Logic}, 2:38, 1937.
+
+\bibitem{Rice53}
+H.~Gordon Rice.
+\newblock Classes of recursively enumerable sets and their decision problems.
+\newblock {\em Transactions of the American Mathematical Society}, 74:358--366,
+  1953.
+
+\bibitem{Searle}
+John~R. Searle.
+\newblock Is the brain?s mind a computer program?
+\newblock {\em Scientific American}, 262(1):26--31, 1990.
+
+\bibitem{sipser13}
+Michael Sipser.
+\newblock {\em Introduction to the Theory of Computation}.
+\newblock Course Technology, Boston, MA, third edition, 2013.
+
+\bibitem{Turing36}
+Alan Turing.
+\newblock On computable numbers, with an application to the
+  entscheidungsproblem.
+\newblock {\em Proceedings of the London Mathematical Society}, 42(1):230--265,
+  1936.
+
+\bibitem{Turing37}
+Alan Turing.
+\newblock Computability and $\lambda$-definability.
+\newblock {\em Journal of Symbolic Logic}, 2(4):153--163, 1937.
+
+\bibitem{Turing50}
+Alan Turing.
+\newblock {I.—COMPUTING MACHINERY AND INTELLIGENCE}.
+\newblock {\em Mind}, LIX(236):433--460, 10 1950.
+
+\bibitem{Anita}
+Anita Wasilewska.
+\newblock {\em Logics for Computer Science: Classical and Non-Classical}.
+\newblock Springer International Publishing, 2018.
+
+\end{thebibliography}
